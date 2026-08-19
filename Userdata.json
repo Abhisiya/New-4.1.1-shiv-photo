@@ -382,5 +382,11 @@
         "key": "key892365",
         "expirydate": "04-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "a42fc10cb72bf4418",
+        "key": "key892367",
+        "expirydate": "26-08-2026",
+        "Allowoffline": false
     }
 ]
