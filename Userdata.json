@@ -431,10 +431,17 @@
         "expirydate": "30-08-2026",
         "Allowoffline": false
     },
-{
+ {
         "device_id": "0aa019d32db387d1",
         "key": "key952807",
         "expirydate": "02-09-2026",
         "Allowoffline": false
-}
+  },
+{
+        "device_id": "d3f7869710a4f0e5",
+        "key": "key952808",
+        "expirydate": "04-09-2026",
+        "Allowoffline": false
+    }
+    
  ]
