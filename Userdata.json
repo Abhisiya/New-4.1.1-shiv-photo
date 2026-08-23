@@ -442,6 +442,12 @@
         "key": "key952808",
         "expirydate": "04-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "ccd9317b4a6409f3",
+        "key": "key952809",
+        "expirydate": "31-08-2026",
+        "Allowoffline": false
     }
     
  ]
